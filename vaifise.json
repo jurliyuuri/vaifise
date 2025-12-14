@@ -2088,6 +2088,7 @@
     } ],
     "variations" : [ ],
     "relations" : [{
+      "title": "類義語",
       "entry": {
         "id": 314,
         "form": "nain"
@@ -5805,6 +5806,7 @@
     } ],
     "variations" : [ ],
     "relations" : [{
+      "title": "類義語",
       "entry": {
         "id": 115,
         "form": "daisèvarnen"
