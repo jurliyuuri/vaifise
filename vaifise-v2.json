@@ -1777,9 +1777,6 @@
         {
           "title": "用例",
           "text": "Nai paisèvaie vaifisaile an? あなたはヴェフィス語を学びますか?\r\nFa paisèvaieous kotieli an. 私は天文学を学んでいる。"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -5103,9 +5100,6 @@
         {
           "title": "用例",
           "text": "Fa ne effailaisè lys Si. 彼に聞いたところ僕はよくないらしい。\r\nVaies failaisè fie lys.　月が美しいらしい。\r\nJois filais failaisè nois lys. あそこには多くの年表があるらしい。\r\nNen chailedos le linaiparinaile voi lys. あの人はリパライン語を齧ったことがあるらしい。"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -6288,9 +6282,6 @@
         {
           "title": "用例",
           "text": "Fasnes saloi anpaisèvaie 学ぶ女性/女学生"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -6901,9 +6892,6 @@
         {
           "title": "発音",
           "text": "fimenoːwl"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -7720,9 +7708,6 @@
         {
           "title": "用例",
           "text": "Maines vain failaisè ats Hata. 王国に旧友がいる。\r\nFa jais laiechis welles Hata Ateseit! 我らはハタ王国に勝つ!\r\nFa fiedos Hatai. 私はハタ人の研究をしています。\r\nFa fedaiys hatelè.  私はハタ王国に行く。\r\nNen ne daivaisè faivai hatou an voi. 彼/彼女はユーゴック語が解らなかった。\r\nFa ansietchaisè mait hata jais var faile ailyriaile famimeis.\r\n私が手続きをすると武器を持ったハタ人たちが入ってきた。"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -8908,9 +8893,6 @@
         {
           "title": "発音",
           "text": "kownien"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -9924,9 +9906,6 @@
         {
           "title": "用例",
           "text": "Fa pasevais mait fa failes. 我思うゆえに我あり\r\nMait, daivade if var failedes sevaissè an. そして、何が起きたか全く解からなかった。\r\nMait, Diekein feedes vaidai voi. そして闇が世界を覆った。―ソノヒノキ\r\nSi jous ne failaisè fydusis mait assai. あいつらは組織でも軍隊でもない。\r\nCyfaisias naichetè vaies failaisè mait pas vaiaile. 今日は満月なので月見をしよう。\r\nFa ansietchaisè mait hata jais var faile ailyriaile famimeis.\r\n私が手続きをすると武器を持ったハタ人たちが入ってきた。\r\nSi filaidèn elfiaile an mait faidouir fasnedous jailen. 彼は本を置いたままここを出て行ってしまった。\r\nFluscies failes mait kakècedous var fajue. 悪天候のため山登りを中止した。\r\nCaala mait chaietoulè fainsè. 挨拶のために皇帝の元へ行く。\r\nMaiouats faibaunyaidè naile mait nen faices wais aitoilai. 少年が彼を引っ掻いたから彼は撃ち殺した。"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -11066,9 +11045,6 @@
         {
           "title": "発音",
           "text": "pɛfeaniʃa majnəʃaj d͡ʒu fasilalow"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -12951,9 +12927,6 @@
         {
           "title": "用例",
           "text": "Naifesè fasèdaut jous faisè fajuoulè voi. 医療隊は山へ行った。\r\nNen kailes voi.　彼・彼女が来た。\r\nNe daisèvair dusèvair an voi!! 訳を書き忘れた!!\r\nMait, Diekein feedes vaidai voi. そして闇が世界を覆った。―ソノヒノキ\r\nVaidais cyfaisias caisè ne if ĵouoi voi. \r\n世界にとってその日はなんともなかった。―ソノヒノキ\r\nPas, maiouais feines cyfaisias pafaioum caisè voi.\r\nしかし、この少年にとっては非常に重要なものだった。―ソノヒノキ\r\nWellaile finkyais cieny ne naisè var pa lef vaile.  歴史ばかり見ているお前に運命は変えられないよ\r\nFemiĵechaile ficedos voi.　マスコミについて考えていた。\r\nSi jais anpaifaiedos cheisaiettais voi. 彼等は和気藹々と話していた。\r\nFa tufaide fol taipouaits faut jais voi.　私は私達の店舗についてまめていた。\r\nHaitĵosafès faits naut voi. あなたの行いに感心していた。\r\nNen chailedos le linaiparinaile voi lys. あの人はリパライン語を齧ったことがあるらしい。"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -13466,9 +13439,6 @@
         {
           "title": "発音",
           "text": "valəjɥə"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -13854,15 +13824,19 @@
         "id": 424,
         "form": "vr'ikouk"
       },
-      "translations": [],
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "var kouké"
+          ]
+        }
+      ],
       "tags": [],
       "contents": [
         {
           "title": "発音",
           "text": "vʁi:ku"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -14408,9 +14382,6 @@
         {
           "title": "用例",
           "text": "Vaies failaisè fie lys.　月が美しいらしい。"
-        },
-        {
-          "title": "備考"
         }
       ],
       "variations": [],
@@ -14467,11 +14438,7 @@
         }
       ],
       "tags": [],
-      "contents": [
-        {
-          "title": "備考"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },

@@ -13,13 +13,16 @@ const mapped = f.words.map(w => {
       const [title, ...forms] = t.split('】')
       return { title, forms }
     })
-  const newContents = w.contents.filter(c => c.title !== '訳語').concat({
+  const newContents = w.contents.filter(c => c.title !== '訳語').concat(w.contents
+    .filter(c => c.title === '訳語')[0]
+    .text.split('\r\n')
+    .filter(t => t.startsWith('2') | t.startsWith('0'))[0] ? [{
     title: '備考',
     text: w.contents
     .filter(c => c.title === '訳語')[0]
     .text.split('\r\n')
     .filter(t => t.startsWith('2') | t.startsWith('0'))[0]
-  })
+  }] : [])
   return {
     entry: w.entry,
     translations: newTranslations,
