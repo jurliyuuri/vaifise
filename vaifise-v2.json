@@ -636,7 +636,8 @@
           "text": "V'ailyries lef tait　決闘\r\nfain ailyriaut　指格"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:(ailyries<ailyrieys).ve<alurews.li:武器"
         }
       ],
       "variations": [],
@@ -672,7 +673,8 @@
           "text": "Lyesaisè ouf Aisèhouaile an pous. 全て燃やせ。\r\nAisèhoumais laiechè faimiaile ailyriaut. 武器倉庫を建てよう。"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:(aisèhouis<aisèhous<aisèhou<aissiuo).ve<assio.li:会"
         }
       ],
       "variations": [],
@@ -824,7 +826,8 @@
           "text": "Naut Ajuair failaisè fol Vaifise. このサイトはヴェフィス語についてのサイトだ。"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000*ujul.ly:サイト"
         }
       ],
       "variations": [],
@@ -1903,7 +1906,8 @@
           "text": "asɛn"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:assan.ve<ahesen.li:軍"
         }
       ],
       "variations": [],
@@ -3231,7 +3235,8 @@
           "text": "silisi:"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:cilisiést.ve<cilisysot.li:ケートニアー性"
         }
       ],
       "variations": [],
@@ -4634,7 +4639,8 @@
           "text": "Enmeuchais naut failes se lef. 君の性格悪いね。"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:(enmeuchais<entmeuchais).ve<in.li+-'d.li+mixa.li:中の子供"
         }
       ],
       "variations": [],
@@ -6596,7 +6602,8 @@
           "text": "Pas, maiouais feines cyfaisias pafaioum caisè voi.\r\nしかし、この少年にとっては非常に重要なものだった。"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:(feines<foeines).ve<(inphofainen<inphofain).li:重要"
         }
       ],
       "variations": [],
@@ -7442,7 +7449,8 @@
           "text": "Si jous ne failaisè fydusis mait assai. あいつらは組織でも軍隊でもない。"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:(fydusis<fydousyl<hydousyl).ve<hudoslss.li:人間たち"
         }
       ],
       "variations": [],
@@ -8225,7 +8233,8 @@
           "text": "Ĵekailejais ne pous!　割り込むな!"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:(ĵekailejan<ĵekailedian<iĵekaiylaidiĵen).ve<{jurni}ekil{mors}.ly+ad.ly+en.ly<ankil.li+add.li+ine.li:割って入る"
         }
       ],
       "variations": [],
@@ -8530,7 +8539,8 @@
           "text": "Vaidais cyfaisias caisè ne if ĵouoi voi. \r\n世界にとってその日はなんともなかった。―ソノヒノキ"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:(ĵouin<ĵouyn<ouyn).ve<own.li:一"
         }
       ],
       "variations": [],
@@ -9842,7 +9852,8 @@
           "text": "fɛgʁada"
         },
         {
-          "title": "備考"
+          "title": "備考",
+          "text": "00000000:(faigradas<baigardun).ve<lbe.li+gardun.li:研究領地"
         }
       ],
       "variations": [],

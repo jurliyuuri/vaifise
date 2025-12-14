@@ -18,7 +18,7 @@ const mapped = f.words.map(w => {
     text: w.contents
     .filter(c => c.title === '訳語')[0]
     .text.split('\r\n')
-    .filter(t => t.startsWith('2'))[0]
+    .filter(t => t.startsWith('2') | t.startsWith('0'))[0]
   })
   return {
     entry: w.entry,
