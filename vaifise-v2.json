@@ -678,14 +678,14 @@
       "variations": [],
       "relations": [
         {
-          "type": "類義語",
+          "title": "類義語",
           "entry": {
             "id": 162,
             "form": "faimiess"
           }
         },
         {
-          "type": "類義語",
+          "title": "類義語",
           "entry": {
             "id": 163,
             "form": "faimmen"
@@ -1646,7 +1646,7 @@
       "relations": [
         {
           "title": "対義語",
-          "forms": {
+          "entry": {
             "id": 267,
             "form": "kaucer"
           }
@@ -5268,14 +5268,14 @@
       "variations": [],
       "relations": [
         {
-          "type": "類義語",
+          "title": "類義語",
           "entry": {
             "id": 20,
             "form": "aisèhouis"
           }
         },
         {
-          "type": "類義語",
+          "title": "類義語",
           "entry": {
             "id": 163,
             "form": "faimmen"
@@ -5324,21 +5324,21 @@
       "variations": [],
       "relations": [
         {
-          "type": "類義語",
+          "title": "類義語",
           "entry": {
             "id": 20,
             "form": "aisèhouis"
           }
         },
         {
-          "type": "類義語",
+          "title": "類義語",
           "entry": {
             "id": 162,
             "form": "faimiess"
           }
         },
         {
-          "type": "関連語",
+          "title": "関連語",
           "entry": {
             "id": 183,
             "form": "famias"
